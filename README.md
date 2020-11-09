@@ -1,8 +1,16 @@
----
+# JPA Programming
 
+## 5. 연관관계 맵핑 기초
 
----
+## 6. 다양한 연관관계 맵핑
 
-<h1 id="jpa">JPA</h1>
-<h2 id="장.-고급-매핑">7장. 고급 매핑</h2>
+## 7. 고급 매핑
+* [바로가기](https://github.com/tatarobo/JPA/blob/master/JPA/7.advancedMapping.md) - 정지현
 
+## 8. 프록시와 연관관계 관리
+
+## 9. 값 타입
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbODcxMTExMTUwLC02NTc2Mzc1MTZdfQ==
+-->
