@@ -11,6 +11,8 @@
 
 ## 9. 값 타입
 
+# 편집
+* [StackEdit](http://stackedit.io)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcxMTExMTUwLC02NTc2Mzc1MTZdfQ==
+eyJoaXN0b3J5IjpbLTE2MzU1NjM2NzMsLTY1NzYzNzUxNl19
 -->
