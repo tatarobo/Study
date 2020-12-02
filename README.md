@@ -14,7 +14,12 @@
 
 # 편집
 * [StackEdit](http://stackedit.io)
-* [Git 편집하기](https://stackedit.io/app#providerId=githubWorkspace&owner=tatarobo&repo=JPA&branch=master)
+* [Git 편집하기](https://stackedit.io/app#providerId=githubWorkspace&owner=tatarobo&repo=JPA&branch=master
+## 9. 값 타입
+
+# 편집
+* [StackEdit](http://stackedit.io)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NTQxNzgyNCwtNjU3NjM3NTE2XX0=
+eyJoaXN0b3J5IjpbLTEzMjIzOTA3NTAsLTM2NTQxNzgyNCwtNj
+U3NjM3NTE2XX0=
 -->
