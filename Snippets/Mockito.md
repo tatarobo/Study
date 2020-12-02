@@ -1,8 +1,10 @@
 # Mockito
 
-@RunWith(MockitoJUnitRunner.class)
+* https://github.com/mockito/mockito
+
+### @RunWith(MockitoJUnitRunner.class)
 - MockitoAnnotations.initMocks() 를 호출할 필요가 없다.
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzAwNTE3OTddfQ==
+eyJoaXN0b3J5IjpbLTYwMTM0ODE2N119
 -->
