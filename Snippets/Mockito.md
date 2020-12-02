@@ -9,8 +9,9 @@
 ### Mockito.verfiy()
 * 해당 메소드의 수행 여부를 확인한다.
 * Mockito.when()으로 설정하지 않아도 된다.
-* @Mock 으로 테스트하려는 클래스를 지정하면 문제없이 mock 클래스 인스턴스가 만들어진다.
-	* 예전 기억에는 @Mock처리를 , when()으로 설정하지 않은 메소드는 호출 시점에 해당 메소드에서 NullPointerException이 발생했던것 같다.
+* @Mock 으로 테스트하려는 클래스를 지정하면 문제없이 mock 클래스 인스턴스가 만들어지고, 메소드 호출시에도 문제없이 수행된다.
+	* 예전 기억에는 @Mock처리를 해주어도, when()으로 설정하지 않은 메소드는 호출 시점에 해당 메소드에서 NullPointerException이 발생했던것 같다.
+	* when() 처리를 안해주면 해당 메소드는 반환을 뭘 해주는거지?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NTE3NjMwM119
+eyJoaXN0b3J5IjpbLTE4NDU5MzgxNTddfQ==
 -->
