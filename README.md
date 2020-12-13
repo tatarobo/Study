@@ -13,6 +13,9 @@
 ## 9. 값 타입
 * [바로가기](https://github.com/tatarobo/JPA/blob/master/JPA/9.valueType.md) - 이현주
 
+## 10. 객체 지향 쿼리 언어
+* [바로가기](https://github.com/tatarobo/JPA/blob/master/JPA/10.OQL.md) - 이현주, 정지현, 최서연
+
 # 편집
 * [StackEdit](http://stackedit.io)
 * [Git 편집하기](https://stackedit.io/app#providerId=githubWorkspace&owner=tatarobo&repo=JPA&branch=master
