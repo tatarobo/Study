@@ -16,6 +16,14 @@
 ## 10. 객체 지향 쿼리 언어
 * [바로가기](https://github.com/tatarobo/JPA/blob/master/JPA/10.OQL.md) - 이현주, 정지현, 최서연
 
+# RealMySQL
+
+## 4. 트랜잭션과 잠금
+* [바로가기](https://github.com/tatarobo/Study/blob/master/RealMysql/4.%20트랜잭션과%20잠금.md) - 정지현
+
+## 5. 인덱스
+* [바로가기](https://github.com/tatarobo/Study/blob/master/RealMysql/5.%20인덱스.md) - 이현주
+
 # 편집
 * [StackEdit](http://stackedit.io)
 * [Git 편집하기](https://stackedit.io/app#providerId=githubWorkspace&owner=tatarobo&repo=JPA&branch=master
