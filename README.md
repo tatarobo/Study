@@ -24,6 +24,9 @@
 ## 5. 인덱스
 * [바로가기](https://github.com/tatarobo/Study/blob/master/RealMysql/5.%20인덱스.md) - 이현주
 
+## 10. 파티션
+* [바로가기](https://github.com/tatarobo/Study/blob/master/RealMysql/10.%20파티션.md) - 이현주
+
 # 편집
 * [StackEdit](http://stackedit.io)
 * [Git 편집하기](https://stackedit.io/app#providerId=githubWorkspace&owner=tatarobo&repo=JPA&branch=master
