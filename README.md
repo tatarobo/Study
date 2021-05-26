@@ -25,7 +25,7 @@
 * [바로가기](https://github.com/tatarobo/Study/blob/master/RealMysql/5.%20인덱스.md) - 이현주
 
 ## 6. 실행 계획
-* [바로가기](https://github.com/tatarobo/Study/blob/master/RealMysql/6.%20%EC%8B%A4%ED%96%89%20%EA%B3%84%ED%9A%8D.md) - 최서연
+* [바로가기](https://github.com/tatarobo/Study/blob/master/RealMysql/6.%20실행%20계획.md) - 최서연
 
 ## 10. 파티션
 * [바로가기](https://github.com/tatarobo/Study/blob/master/RealMysql/10.%20파티션.md) - 이현주
@@ -37,6 +37,6 @@
 # 편집
 * [StackEdit](http://stackedit.io)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDUzMTM4MzEsLTEzMjIzOTA3NTAsLT
-M2NTQxNzgyNCwtNjU3NjM3NTE2XX0=
+eyJoaXN0b3J5IjpbMTg1NDA2NzY2OSwtMTMyMjM5MDc1MCwtMz
+Y1NDE3ODI0LC02NTc2Mzc1MTZdfQ==
 -->
